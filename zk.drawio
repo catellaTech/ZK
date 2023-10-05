@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T01:13:14.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="53iwo81iKQFPQkKIVOsU" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T01:15:02.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WWUsjQaXRHOCl41TvNR5" version="22.0.2" type="github">
   <diagram name="Página-1" id="nLJvat1ITgbOrPoUrWrr">
     <mxGraphModel dx="3474" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sTD4uEu4OX_fFMcIrCe0-16" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Programming Languages: Solidity, Yul, Rust&lt;/font&gt;" style="text;html=1;strokeColor=#A9C4EB;fillColor=#2c2e40;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;dashed=0;gradientColor=#565872;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-613.5" y="720" width="535" height="60" as="geometry" />
+          <mxGeometry x="-617.5" y="730" width="535" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sTD4uEu4OX_fFMcIrCe0-17" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Approximately 4,500 SLOC in .sol files&lt;/font&gt;" style="text;html=1;strokeColor=#A9C4EB;fillColor=#2c2e40;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;dashed=0;gradientColor=#565872;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-808.5" y="1080" width="348.5" height="70" as="geometry" />
@@ -144,10 +144,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sTD4uEu4OX_fFMcIrCe0-54" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;SLOC Distribution&lt;/font&gt;" style="text;html=1;strokeColor=#A9C4EB;fillColor=#2c2e40;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;dashed=0;gradientColor=#565872;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="860" width="230" height="60" as="geometry" />
+          <mxGeometry x="-465" y="870" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sTD4uEu4OX_fFMcIrCe0-55" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;About 5,000 SLOC in .yul files&lt;/font&gt;" style="text;html=1;strokeColor=#A9C4EB;fillColor=#2c2e40;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;dashed=0;gradientColor=#565872;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="980" width="370" height="60" as="geometry" />
+          <mxGeometry x="-535" y="990" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sTD4uEu4OX_fFMcIrCe0-61" value="&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Figure 1&amp;nbsp;zkSync Era&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 216%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;The diagram provides an overview of how the zkSync Era project is structured and how its different parts relate to each other.&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#A9C4EB;fillColor=#2c2e40;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=3;gradientColor=#565872;shadow=0;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1005" width="425" height="164.3" as="geometry" />
